@@ -1,0 +1,1 @@
+<model-viewer src="t.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" min-camera-orbit="-5deg 83deg 10.01m" min-field-of-view="23.44deg" max-camera-orbit="5deg 93deg auto"> </model-viewer>
